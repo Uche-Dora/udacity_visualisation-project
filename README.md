@@ -18,5 +18,9 @@ At the data wrangling stage, I checked for the number of rows and columns, prese
 1. Males use bikes more at sanfrancisco.
 2. Most bike users are between age 30 to 50
 3. Subscribed users most likely used bikes for their day to day activity just within the area. 
+4. Weekdays and work hours has highest bike use count.
+
+## Inference
+Most bike users are workers who use bike to get to their various places of work 
 
 **NOTE:** age above 90 and duration_min above 60 were traeted as outliers and dropped from the dataset. 
